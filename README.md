@@ -40,6 +40,7 @@ Repo Link: https://github.com/CodeSpace-Academy/Module_3_StudentNo_Classcode_Gro
 1. After recording, upload your presentation videos to Loom.
 2. Obtain the Loom recording links for the video presentation.
 3. Edit the `README.md` file in the cloned repository and insert the Loom recording links.
+ [ Loom video link: https://www.loom.com/share/21e9433008934f4b8f9931b2d8d5a3aa?sid=6e817f4c-8846-4003-85c6-e0a886e48be9 ]
    
 ## Step 5: Submit Your Project
 1. Commit your changes to the Git repository and push them to your GitHub account.
